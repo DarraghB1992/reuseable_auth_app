@@ -12,7 +12,7 @@ setup(
     packages=['reusable_auth'],
     include_package_data=True,
     license='BSD License',
-    description='A simple Django app to add email authorisation',
+    description='A simple Django app to add email authorization',
     long_description=README,
     url='http://example.com',
     author='Darragh Browne',
